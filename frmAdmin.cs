@@ -15,6 +15,7 @@ namespace FinalExam_PlanesSystem
         public frmAdmin()
         {
             InitializeComponent();
+            djalkjdla
         }
 
         private void frmAdmin_Load(object sender, EventArgs e)
